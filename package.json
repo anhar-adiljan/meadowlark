@@ -1,0 +1,22 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "toy project for tutorials on node and express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhar-adiljan/meadowlark.git"
+  },
+  "author": "Adil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhar-adiljan/meadowlark/issues"
+  },
+  "homepage": "https://github.com/anhar-adiljan/meadowlark#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
